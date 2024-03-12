@@ -1,6 +1,6 @@
- let a = 10; 
+ let a = 10000; 
 
-let b = 22;
+let b = 220000;
 
 console.log(a);
 
