@@ -1,4 +1,4 @@
-let idade = 16;
+let idade = 14;
 
 if (idade <= 18) {
     console.log("Sujeito menor de idade.");
@@ -6,4 +6,3 @@ if (idade <= 18) {
 } else {
     console.log("maior de idade");
 }
-
