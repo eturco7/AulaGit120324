@@ -1,4 +1,4 @@
-let a = 1; 
+let a = 7; 
 let b = 10;
 let inicio;
 let fim;
