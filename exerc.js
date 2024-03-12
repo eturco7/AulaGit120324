@@ -1,6 +1,6 @@
-let a = 10;
+let a = 100;
 
-let b = 15;
+let b = 150;
 
 let divisão = a / b;
 
