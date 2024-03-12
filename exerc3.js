@@ -1,6 +1,6 @@
-let a = 10;
+let c = 10;
 
-let b = 20;
+let d = 20;
 
 let subtracao = a - b;
 
