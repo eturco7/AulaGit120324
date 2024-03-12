@@ -1,6 +1,6 @@
-let a = 2;
+let a = 2000;
 
-let b = 20;
+let b = 20000;
 
 if (b % 1 != 0 || a % 1 != 0) {
     console.log("operação não realizavel");
